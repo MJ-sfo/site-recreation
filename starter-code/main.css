@@ -43,7 +43,9 @@ img {
 
 }
 .footer {
-
+	background-color: #D3D3D3;
+	height: 200px;
+	padding: 10px;
 }
 .content {
 
