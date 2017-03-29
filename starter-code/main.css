@@ -25,8 +25,12 @@ nav ul {
 nav ul li {
 
 }
-.header {
+img {
+	border: dashed blue;
 
+}
+.header {
+	background-color: #00BFFF;
 }
 .header h1 {
 
